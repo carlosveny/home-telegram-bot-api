@@ -1,0 +1,15 @@
+{
+  "name": "home-telegram-bot-api",
+  "version": "1.0.0",
+  "description": "API that receives POST requests and transforms them into telegram messages",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node ./src/scripts/update-server.js fuel-price-api",
+    "start": "node ./src/app/index.js"
+  },
+  "author": "Carlos Veny",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
