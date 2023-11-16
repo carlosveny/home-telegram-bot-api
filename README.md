@@ -9,6 +9,6 @@ Blabla
 
 ## Endpoints
 | Endpoint | Método | Body | Descripción |
-|-----|---|---|---|---|
+|-----|---|---|---|
 | /prueba | POST | `{"prueba": [1, 2]}` | Descripción prueba |
 
