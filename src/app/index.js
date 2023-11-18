@@ -24,6 +24,6 @@ APP.post('/sendNotification', (req, res) => {
       .then(_ => res.status(200).json({ message: "success", notificationSended: notificationToSend }))
       .catch(error => res.status(400).json({ message: error?.message }))
   } else {
-    res.status(400).json({ message: "Notification not found in JSON. It works" })
+    res.status(400).json({ message: "Notification not found in JSON" })
   }
 })
