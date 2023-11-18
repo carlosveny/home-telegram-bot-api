@@ -4,7 +4,7 @@
   "description": "API that receives POST requests and transforms them into telegram messages",
   "main": "index.js",
   "scripts": {
-    "deploy": "node ./src/scripts/update-server.js fuel-price-api",
+    "deploy": "node ./src/scripts/update-server.js home-telegram-bot-api",
     "start": "node ./src/app/index.js"
   },
   "author": "Carlos Veny",
