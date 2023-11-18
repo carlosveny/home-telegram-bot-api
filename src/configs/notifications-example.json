@@ -1,0 +1,15 @@
+[
+  {
+    "id": "example_id",
+    "actions": {
+      "actionNameExample": "Example ID triggered",
+      "actionNameExample2": "Example ID turned off"
+    }
+  },
+  {
+    "id": "another_example_id",
+    "actions": {
+      "anotherActionName": "Another example fired"
+    }
+  }
+]

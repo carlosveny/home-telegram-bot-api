@@ -2,3 +2,5 @@
 
 # Sensitive data
 /src/scripts/update-server.js
+/src/configs/config-bot.json
+/src/configs/notifications.json
