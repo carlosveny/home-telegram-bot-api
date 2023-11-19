@@ -44,7 +44,7 @@ Este archivo contiene el texto de todas las notificaciones. La estructura es la 
   }
 }]
 ```
-El **id** es único y puede contener todas las **actions** que se necesiten. Cada acción tiene que ser diferente a las demás.
+El **id** es único y puede contener todas las **actions** que se necesiten. Cada acción tiene que ser diferente a las demás. Se pueden añadir todos los objetos, como el descrito anteriormente, que se necesiten.
 
 ## Endpoints
 | Endpoint | Método | Body | Descripción |
