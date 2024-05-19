@@ -7,15 +7,15 @@ El servidor está montado sobre un contenedor Ubuntu con las siguientes caracter
 
 Versión Ubuntu
 ```
-18.04.6
+20.04.6
 ```
 Versión node
 ```
-14.21.3
+18.20.2
 ```
 Versión npm
 ```
-6.14.18
+10.5.0
 ```
 Para mantener siempre activo el servidor se usa [supervisorctl](http://supervisord.org/running.html).
 
