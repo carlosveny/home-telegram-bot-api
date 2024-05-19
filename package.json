@@ -2,13 +2,13 @@
   "name": "home-telegram-bot-api",
   "version": "1.0.0",
   "description": "API that receives POST requests and transforms them into telegram messages",
+  "author": "Carlos Veny",
+  "license": "ISC",
   "main": "index.js",
   "scripts": {
     "deploy": "node ./src/scripts/update-server.js home-telegram-bot-api",
     "start": "node ./src/app/index.js"
   },
-  "author": "Carlos Veny",
-  "license": "ISC",
   "dependencies": {
     "axios": "~1.6.2",
     "express": "~4.18.2",
